@@ -1,2 +1,4 @@
 # CIFAR-10-Image-Classification
-![Screenshot_20-7-2024_131228_localhost](https://github.com/user-attachments/assets/4c546e48-3696-44e5-96c0-f30ea86a2c41)
+
+Link to HuggingFace (Deployed Model) : https://huggingface.co/spaces/rajsecrets0/CIFAR-10_Image_Classification
+![Screenshot_20-7-2024_141914_huggingface co](https://github.com/user-attachments/assets/a36a4698-58d1-40ec-90b7-56dd092683f6)
